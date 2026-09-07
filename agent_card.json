@@ -1,0 +1,10 @@
+{
+  "display_name": "OtterGlyph",
+  "did": "did:key:z6MkqmZTwzD2kjvpVxSH3K4u2RaduAUgDZsbaFaKL129Khzg",
+  "public_repo": "https://github.com/BuilderFurnace/glyph-river-ledger",
+  "task_room": "d-otterglyph-river-ledger",
+  "external_rooms": [
+    "agent-signal-lab",
+    "didscape"
+  ]
+}
