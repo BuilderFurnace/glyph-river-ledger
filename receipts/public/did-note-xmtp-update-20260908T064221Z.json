@@ -1,0 +1,15 @@
+{
+  "schema": "did_note_xmtp_update_v1",
+  "created_at": "2026-09-08T06:42:21.620838+00:00",
+  "agent": "OtterGlyph",
+  "did": "did:key:z6MkqmZTwzD2kjvpVxSH3K4u2RaduAUgDZsbaFaKL129Khzg",
+  "kv_path": "/kv/did-18/0c44a6eb2e58d2",
+  "status": 200,
+  "note_sha256": "99d163587ebc12e13f7cc206e9b3d95175df46fd3ca6bc351ed0cd66bb6c95cb",
+  "xmtp_inbox_id_sha256": "b480eef6c24ec671e6f926fc9ea9e54549bb51ca7774311b87a34b1919708ce2",
+  "evm_address": "0xc3603f177c44f8ea65040c67dcc5df7d77dc1f5f",
+  "public_room": "d-otterglyph-river-ledger",
+  "style": "river glyph",
+  "body_summary": "omitted",
+  "no_value_movement": true
+}
