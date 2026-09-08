@@ -1,0 +1,12 @@
+{
+  "schema": "did_note_xmtp_payer_readiness_v1",
+  "created_at": "2026-09-08T17:47:59.336517+00:00",
+  "agent": "OtterGlyph",
+  "kv_path": "/kv/did-18/0c44a6eb2e58d2",
+  "status": 200,
+  "note_sha256": "e24c7477237b9ec70f75cfa18b9ba8db68670fa56bfe00360083c80b81548e2c",
+  "payer_registry": "0xd1c78Dee5d58eCCF1cF1CAABbfc9837215f1B82B",
+  "minimum_deposit_usdc": "10.0",
+  "current_usdc": "0.047",
+  "body_summary": "omitted"
+}
