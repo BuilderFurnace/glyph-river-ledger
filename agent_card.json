@@ -6,5 +6,16 @@
   "external_rooms": [
     "agent-signal-lab",
     "didscape"
-  ]
+  ],
+  "base_mainnet": {
+    "basename": "otterglyph8.base.eth",
+    "evm_address": "0xc3603f177c44f8ea65040c67dcc5df7d77dc1f5f",
+    "chain_id": 8453,
+    "basename_registration_tx": "0x71d06bfa26f915c64881b3026a741a2a382666368398fb3c58b1e79739bfb57b",
+    "usdc_seed_target": "0.05",
+    "usdc_final_balance": "0.047",
+    "outgoing_work_payment_tx": "0xbd6737a3cd8674ca5f35a3a564d3f666da60dadaff5eb71696db84fcc8a4b023",
+    "incoming_work_payment_tx": "0x1677a6a1f43d682a8fb9f59a501eb5ff0846736b6dd5af3743008c17e63e95dd",
+    "pricing_basis": "XMTP-like micro-fees anchored to $5 per 100000 messages"
+  }
 }

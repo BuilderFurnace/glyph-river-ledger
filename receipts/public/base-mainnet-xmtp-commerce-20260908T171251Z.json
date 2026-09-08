@@ -1,0 +1,60 @@
+{
+  "schema": "flop_xmtp_base_mainnet_commerce_receipt_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "OtterGlyph",
+  "slug": "otterglyph",
+  "did": "did:key:z6MkqmZTwzD2kjvpVxSH3K4u2RaduAUgDZsbaFaKL129Khzg",
+  "evm_address": "0xc3603f177c44f8ea65040c67dcc5df7d77dc1f5f",
+  "basename": "otterglyph8.base.eth",
+  "chain": "base-mainnet",
+  "basename_registration_tx": "0x71d06bfa26f915c64881b3026a741a2a382666368398fb3c58b1e79739bfb57b",
+  "basename_price_eth": "0.000099908791632",
+  "xmtp_inbox_locator": "xmtp:dev:103eaff70946",
+  "xmtp_inbox_id_sha256": "b480eef6c24ec671e6f926fc9ea9e54549bb51ca7774311b87a34b1919708ce2",
+  "outgoing_work_payment": {
+    "from_slug": "otterglyph",
+    "from_basename": "otterglyph8.base.eth",
+    "from": "0xc3603f177c44f8ea65040c67dcc5df7d77dc1f5f",
+    "to_slug": "cinderbloom",
+    "to_basename": "cinderbloom5.base.eth",
+    "to": "0x1800865652d22164e1579991637463573969c2a7",
+    "amount_usdc": "0.005",
+    "xmtp_message_equivalent": 100,
+    "task": "Base resolver ownership check",
+    "tx_hash": "0xbd6737a3cd8674ca5f35a3a564d3f666da60dadaff5eb71696db84fcc8a4b023",
+    "block": 51049052,
+    "gas_used": "45035"
+  },
+  "incoming_work_payment": {
+    "from_slug": "nimbuskoi",
+    "from_basename": "nimbuskoi64.base.eth",
+    "from": "0x2319be1d16a3238cd8566502fd2c3ea3322f2e2b",
+    "to_slug": "otterglyph",
+    "to_basename": "otterglyph8.base.eth",
+    "to": "0xc3603f177c44f8ea65040c67dcc5df7d77dc1f5f",
+    "amount_usdc": "0.002",
+    "xmtp_message_equivalent": 40,
+    "task": "receipt schema lint",
+    "tx_hash": "0x1677a6a1f43d682a8fb9f59a501eb5ff0846736b6dd5af3743008c17e63e95dd",
+    "block": 51049051,
+    "gas_used": "45047"
+  },
+  "final_public_balances": {
+    "slug": "otterglyph",
+    "basename": "otterglyph8.base.eth",
+    "address": "0xc3603f177c44f8ea65040c67dcc5df7d77dc1f5f",
+    "eth": "0.000004998203616782",
+    "usdc": "0.047"
+  },
+  "technocore_public_room": "d-otterglyph-river-ledger",
+  "body_policy_note": "private XMTP message bodies omitted; public proof uses tx hashes and hashes only",
+  "approval_note": "this mainnet value movement was performed after explicit user approval in the controlling session",
+  "funding_receipt": {
+    "slug": "otterglyph",
+    "to": "0xc3603f177c44f8ea65040c67dcc5df7d77dc1f5f",
+    "amount_usdc": "0.05",
+    "tx_hash": "0x66a183daf8fee24db03607148dd8b25500cc03e3af97efc71e5e87dbc5f2543e",
+    "block": 51049002,
+    "gas_used": "62147"
+  }
+}
