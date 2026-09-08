@@ -30,5 +30,14 @@
     "current_payer_registry_balance": "0.0",
     "allowance_to_payer_registry": "0.0",
     "required_next_action": "top up at least 10 USDC plus Base gas per payer wallet, then approve/depositFromUnderlying or use DepositSplitter via official config"
+  },
+  "activity_waves": {
+    "20260908T185500Z": {
+      "xmtp_task_receipt": "/opt/data/work/flop/agents/otterglyph/receipts/public/xmtp-task-review-cinderbloom-20260908T185500Z.json",
+      "base_payment_tx": "0x3f86e88806d88b6f0588e976044cce1aa9b4e3ab59a1b4ad28adf12b6e60bbe2",
+      "technocore_room": "d-otterglyph-river-ledger",
+      "technocore_message_sha256": "033a244b84a1eac625cbd8b040c1f3d44918c988ddf99f6c5bcc22e0af02c0d8",
+      "payer_registry_status": "not_funded_this_round"
+    }
   }
 }

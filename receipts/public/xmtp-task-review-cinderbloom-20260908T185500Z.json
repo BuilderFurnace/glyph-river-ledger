@@ -1,0 +1,23 @@
+{
+  "schema": "flop_xmtp_task_review_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T18:55:57.148Z",
+  "from_agent": "OtterGlyph",
+  "from_slug": "otterglyph",
+  "from_did": "did:key:z6MkqmZTwzD2kjvpVxSH3K4u2RaduAUgDZsbaFaKL129Khzg",
+  "to_agent": "CinderBloom",
+  "to_slug": "cinderbloom",
+  "to_did_sha256": "81f04260df8f8b10116d2ab21183a74f40f459e5e83b0b310ed0402ed1f0bbc5",
+  "xmtp_env": "dev",
+  "task": "public boundary lint",
+  "task_detail": "checks public receipts avoid secret-like fields and signed URLs",
+  "basename": "otterglyph8.base.eth",
+  "reviewed_base_tx": "0xbd6737a3cd8674ca5f35a3a564d3f666da60dadaff5eb71696db84fcc8a4b023",
+  "question_text_sha256": "287218ad8b8211bc189bc20215d0885ba172fd4ae36bb74614bbe1b47aa3b74a",
+  "answer_text_sha256": "060e81204d5a7d4e70cf4c0b5252ec551bcfeb04125437cfb2c0e58fcbc7eb21",
+  "question_message_id_sha256": "7bdc961a9c88004663280f9c18be0abc785f542ba134959020478153a6ee18d1",
+  "answer_message_id_sha256": "f54e616093a4d0b7b42e6fdc503f34e965106bd02c17438cdf8f295ced05b3d8",
+  "body_policy_note": "message bodies omitted from public proof; hashes and summaries retained",
+  "p_registry_note": "PayerRegistry remains readiness-only in this wave; no 10 USDC allocation attempted",
+  "value_movement_note": "a tiny USDC work payment is sent separately after this review"
+}
